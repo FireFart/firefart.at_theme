@@ -30,6 +30,7 @@
 								}
 							?>
 							Copyright <?php echo $text; ?> by Christian Mehlmauer
+							<?php wp_footer(); ?>
 						</div><!-- .site-info -->
 				</footer><!-- #colophon -->
 		</div><!-- #page -->
