@@ -21,3 +21,6 @@
  /* Original max-width: 474px */
  max-width: 80%;
 }
+img {
+     border: solid black 2px
+}
