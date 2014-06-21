@@ -1,4 +1,4 @@
-firefart.net_theme
+firefart.at_theme
 ==================
 
-firefart.net Wordpress Child Theme
+firefart.at Wordpress Child Theme
