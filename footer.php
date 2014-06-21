@@ -40,7 +40,7 @@
   _paq.push(['trackPageView']);
   _paq.push(['enableLinkTracking']);
   (function() {
-    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://www.firefart.net/";
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://www.firefart.at/";
     _paq.push(['setTrackerUrl', u+'pi.php']);
     _paq.push(['setSiteId', 1]);
     var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
@@ -48,7 +48,7 @@
   })();
 
 </script>
-<noscript><p><img src="http://www.firefart.net/pi.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+<noscript><p><img src="//www.firefart.at/pi.php?idsite=1" style="border:0;" alt="" /></p></noscript>
 <!-- End Piwik Code -->
 </body>
 </html>
